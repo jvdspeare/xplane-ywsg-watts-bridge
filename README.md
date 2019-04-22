@@ -5,3 +5,9 @@
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/jvdspeare)
 
 YWSG Watts Bridge for X-Plane 11
+
+![image](https://i.imgur.com/9kOhrB7.png)
+
+![image](https://i.imgur.com/2pA0HmD.png)
+
+![image](https://imgur.com/GyFVYWV.png)
