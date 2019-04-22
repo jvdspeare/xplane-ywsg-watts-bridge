@@ -11,3 +11,11 @@ YWSG Watts Bridge for X-Plane 11
 ![image](https://i.imgur.com/2pA0HmD.png)
 
 ![image](https://imgur.com/GyFVYWV.png)
+
+## Installation
+Copy JVDS - YWSG Watts Bridge to your custom scenery folder \X-Plane 11\Custom Scenery
+
+Add this line to your scenery_packs.ini (located in the custom scenery folder):
+'''SCENERY_PACK Custom Scenery/JVDS - YWSG Watts Bridge/'''
+
+## Recommended 
