@@ -32,7 +32,7 @@ Ortho4XP is a tool which can be used to create scenery for X-Plane from orthopho
 [HERE](https://forums.x-plane.org/index.php?/files/file/29120-ortho4xp/) to install Ortho4xp. The latest version can be found 
 [HERE](https://github.com/oscarpilote/Ortho4XP).
 
-YWSG - Watts Bridge is located in the -28 +152 tile.
+YWSG - Watts Bridge is located within the -28 +152 tile.
 
 ## License
 This project is licensed under the MIT License - see 
