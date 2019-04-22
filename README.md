@@ -12,7 +12,7 @@ YWSG Watts Bridge for X-Plane 11
 
 ![image](https://imgur.com/GyFVYWV.png)
 
-Screenshots taken show the airfeild with zoom level 19 orthophotos from Bing, orthophotos are not included. 
+Screenshots taken show the airfield with zoom level 19 orthophotos from Bing, orthophotos are not included. 
 
 ## Installation
 1. [DOWNLOAD](https://github.com/jvdspeare/xplane-ywsg-watts-bridge/archive/master.zip)
